@@ -2,9 +2,13 @@
 
 Welcome to the Tea Haven Landing Page repository! This project is a simple, responsive landing page for Tea Haven, showcasing our premium range of teas and botanical solutions.
 
+## Demo
+https://fanciful-mousse-8134a8.netlify.app/
+
 ## Overview
 
 The Tea Haven Landing Page includes a header, main section with featured products, and a footer. The design is clean and modern, aiming to provide a seamless user experience with a focus on the products offered.
+
 
 ## Features
 
