@@ -3,7 +3,7 @@
 Welcome to the Tea Haven Landing Page repository! This project is a simple, responsive landing page for Tea Haven, showcasing our premium range of teas and botanical solutions.
 
 ## Demo
-https://beautiful-cascaron-2240ad.netlify.app/
+https://teahavenproject.netlify.app/
 
 ## Overview
 
