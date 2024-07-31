@@ -12,6 +12,7 @@ The Tea Haven Landing Page includes a header, main section with featured product
 - **Main Section:** Showcases featured products with images, titles, descriptions, and purchase buttons.
 - **Footer:** Contains a call-to-action button and copyright information.
 
-
-
+## Screenshots
+![Screenshot (196)](https://github.com/user-attachments/assets/ae2b8800-55da-4fc1-865b-35c4d7d17dde)
+![Screenshot (195)](https://github.com/user-attachments/assets/03d13848-e2ad-427c-b12c-3d45b0c52d45)
 
